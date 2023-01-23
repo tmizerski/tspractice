@@ -1,0 +1,116 @@
+/*Skip to content*/
+/*Product*/
+/*Solutions*/
+/*Open Source*/
+/*Pricing*/
+/*Search*/
+/*Sign in*/
+/*Sign up*/
+/*iamshaunjp*/
+/*/*/
+/*typescript-tutorial*/
+/*Public*/
+/*Code*/
+/*Issues*/
+/*3*/
+/*Pull requests*/
+/*7*/
+/*Actions*/
+/*Projects*/
+/*Security*/
+/*Insights*/
+/*typescript-tutorial/styles.css*/
+/*@iamshaunjp*/
+/*iamshaunjp lesson-2*/
+/*Latest commit 6f2ed70 on Mar 12, 2020*/
+/*History*/
+/*1 contributor*/
+/*72 lines (72 sloc)  995 Bytes*/
+
+body{
+    margin: 0;
+    font-family: Roboto;
+}
+.wrapper{
+    max-width: 960px;
+    margin: 0 auto;
+}
+h1{
+    margin: 40px auto;
+    color: #ff0aa7;
+    text-align: center;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    padding: 6px 10px;
+    border: 1px solid #eee;
+    margin: 10px auto;
+}
+li h4{
+    color: #ff0aa7;
+    margin: 0;
+    text-transform: capitalize;
+}
+li p{
+    color: #333;
+    margin: 8px 0 0;
+}
+footer{
+    background: #eee;
+    padding: 60px;
+    margin-top: 60px;
+}
+form{
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+label{
+    display: block;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #333;
+    margin: 16px 0 6px;
+}
+input, select{
+    padding: 6px;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+}
+.field{
+    display: inline-block;
+    margin: 0 10px;
+}
+button{
+    color: white;
+    border: 0;
+    background: #ff0aa7;
+    padding: 6px;
+    min-width: 80px;
+    border-radius: 4px;
+}
+footer a{
+    text-align: center;
+    display: block;
+    color: #999;
+    margin-top: 40px;
+    font-size: 0.7em;
+}
+/*Footer*/
+/*© 2023 GitHub, Inc.*/
+/*Footer navigation*/
+/*Terms*/
+/*Privacy*/
+/*Security*/
+/*Status*/
+/*Docs*/
+/*Contact GitHub*/
+/*Pricing*/
+/*API*/
+/*Training*/
+/*Blog*/
+/*About*/
+/*typescript-tutorial/styles.css at lesson-2 · iamshaunjp/typescript-tutorial · GitHub*/
